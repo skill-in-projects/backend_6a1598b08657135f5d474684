@@ -4,7 +4,11 @@
 
 **Application DB Connection String:** `postgresql://db_appdb_6a1598b08657135f5d474684_user:OOZF%2425%2Av8bp3pk5p4A%40rsT%25%2A2LwYSum@ep-withered-hall-akknrcqo.c-3.us-west-2.aws.neon.tech:5432/AppDB_6a1598b08657135f5d474684?sslmode=require`
 
-**Swagger API Tester URL:** /swagger
+## Web API
+
+**WebApi URL:** https://webapi6a1598b08657135f5d474684-production.up.railway.app
+
+**Swagger API Tester URL:** https://webapi6a1598b08657135f5d474684-production.up.railway.app/swagger
 
 ## Google APIs (Gemini, Maps, Speech-to-Text)
 
